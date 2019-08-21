@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566387718 source:f:\github.cpp\cpp-adattipusok\02valosak\valossak\main.cpp
+	<iostream>
+	<math.h>
+
