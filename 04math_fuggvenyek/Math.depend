@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1568362954 source:c:\users\gycsaba\downloads\math\main.cpp
+	<iostream>
+	<math.h>
+
